@@ -1,8 +1,14 @@
 # Writing a helpful issue report or feature request.
 
 ## A Clear Title
+
 ## One Issue or Request per Report
+
 ## Steps to Repeat Issue
+
+## Expected and observed results
+
+## Screenshots
 
 __References__
 
