@@ -24,7 +24,7 @@ Writing a clear title of your issue or feature seems obvious but can be overlook
 
 ## One Issue or Request per Report
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam a sapien eget dolor fermentum gravida. Quisque aliquet ipsum ut est fringilla pretium. Donec facilisis egestas gravida. Aliquam a libero non ipsum interdum facilisis et in dolor. Curabitur sollicitudin pretium massa nec ultricies. Nam pharetra interdum vestibulum. Duis id magna felis. Integer et orci libero, a bibendum nulla. Phasellus eu arcu ut nulla aliquam consectetur eu eu velit. Aenean aliquam, sapien ac faucibus vulputate, leo lorem venenatis nisi, nec imperdiet magna nisi vel ante. Nulla facilisi. Maecenas in hendrerit velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce consequat massa eget sem iaculis et sollicitudin metus placerat.
+In order for the support staff to give you the best service only include one issue per report.  Dealing with multiple issues in one ticket greatly increases the chances that issues will be missed.
 
 ## Steps to Repeat Issue
 
