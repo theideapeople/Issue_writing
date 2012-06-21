@@ -5,6 +5,7 @@ This is a guide to help you resolve a problem or submit something you would like
 There are two aspects to fixing a bug or submitting a feature request that will help the user and the support agent get on the same page:
 
 * __From your point of view:__ You have to understand that person helping you most likely is not aware of the problem, otherwise it would be fixed.  The more you can help them understand your issue in a calm and helpful manner will go a long way.
+
 * __From their point of view:__ They are trying to use your software and either they can't or it is missing a feature that will help them.  Instead of just working around it, they are helping you do your job.  Listen.  Be thoughtful.  At this point they are almost an employee. 
 
 ## A Clear Title
