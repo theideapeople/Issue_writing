@@ -2,6 +2,8 @@
 
 ## A Clear Title
 
+Writing a clear title of your issue or feature seems obvious but can be overlooked.  It is the first thing that everyone will notice and you want to get their attention.  That is why you are submitting rigth?
+
 ## One Issue or Request per Report
 
 ## Steps to Repeat Issue
