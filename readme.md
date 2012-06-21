@@ -1,6 +1,6 @@
 # Writing a helpful issue report or feature request.
 
-This is a guide to help you resolve a problem or submit something you would like added to your program.
+This is a guide to help you submit an issue report or feature request.  Writing a well constructed report will help the administrators fix your issue and improve the quality of the application.
 
 There are two aspects to fixing a bug or submitting a feature request that will help the user and the support agent get on the same page:
 
