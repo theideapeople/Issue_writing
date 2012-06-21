@@ -4,8 +4,6 @@
 ## One Issue or Request per Report
 ## Steps to Repeat Issue
 
-----------
-
 __References__
 
 [It's common sense, stupid][1]
