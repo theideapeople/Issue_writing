@@ -16,7 +16,10 @@ Writing a clear title of your issue or feature seems obvious but can be overlook
 * "Broken"
 * "Lame, this program sux"
 
-
+*Examples of good titles:*
+* "Unable to save a contact to my contact list."
+* "I click on a link to take me to my project but it says it cannot be found."
+* "I am not able to upload an image to my profile."
 
 ## One Issue or Request per Report
 
