@@ -10,6 +10,5 @@ __References__
 
 [Qt Developer Network][2]
 
-
-  [1]: http://itscommonsensestupid.blogspot.com/2008/07/tips-to-write-good-bug-report.html
-  [2]: http://qt-project.org/wiki/ReportingBugsInQt
+[1]: http://itscommonsensestupid.blogspot.com/2008/07/tips-to-write-good-bug-report.html
+[2]: http://qt-project.org/wiki/ReportingBugsInQt
