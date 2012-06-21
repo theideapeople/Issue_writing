@@ -4,7 +4,7 @@ This is a guide to help you resolve a problem or submit something you would like
 
 There are two aspects to fixing a bug or submitting a feature request that will help the user and the support agent get on the same page:
 
-* __From your perspective__
+* __From your perspective:__ You have to understand that person helping you most likely is not aware of the problem, otherwise it would be fixed.  The more you can help them understand you issue in a calm and helpful manner will go a long way.
 
 ## A Clear Title
 
