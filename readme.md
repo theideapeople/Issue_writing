@@ -28,15 +28,10 @@ In order for the support staff to give you the best service only include one iss
 
 ## Steps to Repeat Issue
 
-Cras eget lacus at erat dignissim commodo sit amet sit amet magna. Sed eleifend justo et leo semper tincidunt. Pellentesque tincidunt pretium velit, in viverra ligula fringilla rutrum. Vivamus pellentesque, urna non condimentum pellentesque, nibh est malesuada tortor, sit amet auctor sapien ligula vel magna. Pellentesque consequat dui consequat eros auctor pulvinar. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In hac habitasse platea dictumst. Donec sodales hendrerit enim non venenatis.
 
 ## Expected and observed results
 
-In eget tortor nunc, consectetur posuere nunc. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque scelerisque sem at mi tincidunt lobortis. Quisque ac sapien nisi. Nunc dui risus, auctor vel faucibus ut, tincidunt sed tellus. Vivamus non purus non mi accumsan mollis sit amet pellentesque urna. Curabitur dui sem, lacinia nec aliquet laoreet, porta vitae metus. Nam quis velit eros. Etiam lobortis diam fermentum eros auctor sed tempus dolor euismod. In hac habitasse platea dictumst. Proin ut venenatis dui. Morbi venenatis hendrerit erat accumsan tempor. Maecenas ac commodo ipsum. Sed accumsan tincidunt eleifend. Nunc sed arcu nulla.
-
 ## Screenshots
-
-Nunc pretium, purus id tristique semper, magna massa viverra leo, sit amet viverra leo odio id leo. Ut porta turpis id dolor scelerisque sed laoreet tellus volutpat. Aliquam cursus lectus vel dui interdum ultricies. Aliquam ac mi ac augue interdum iaculis in in mauris. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc semper ligula non felis tincidunt varius. Quisque volutpat fermentum interdum. Morbi facilisis ultrices blandit. Suspendisse vestibulum erat varius urna iaculis imperdiet. Nullam felis dui, mattis blandit porttitor vel, suscipit quis quam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut gravida nisi enim, nec suscipit magna. In a faucibus tortor.
 
 __References__
 
