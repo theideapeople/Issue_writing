@@ -41,6 +41,7 @@ Taking a screenshot of what you are seeing on the screen can sometimes be a grea
 ## Time to submit your issue or request?
 
 NO!  Take one last look at what you have written.  Any confuse that can be resolved before making contact will improve your experience.
+
 __References__
 
 [It's common sense, stupid][1]
