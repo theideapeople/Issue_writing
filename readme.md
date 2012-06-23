@@ -1,8 +1,8 @@
 # Writing a helpful issue report or feature request.
 
-This is a guide to help you submit an issue report or feature request.  Writing a well constructed report will help the administrators fix your issue and improve the quality of the application.
+This is a guide to help you submit an issue report or feature request.  Writing a well constructed report will help the support staff fix your issue and improve the quality of the application.
 
-There are two aspects to fixing a bug or submitting a feature request that will help the user and the support agent get on the same page:
+There are two aspects to fixing a bug or submitting a feature request that will help you and the support agent get on the same page:
 
 * __From your point of view:__ You have to understand that person helping you most likely is not aware of the problem, otherwise it would be fixed.  The more you can help them understand your issue in a calm and helpful manner will go a long way.
 
