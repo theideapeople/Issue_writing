@@ -28,6 +28,7 @@ In order for the support staff to give you the best service only include one iss
 
 ## Steps to Repeat Issue
 
+An important step in helping the support staff fix your issue is being able to repeat the steps you took that caused the problem.  It is okay if you don't remember every step in perfect deftail.  It is important to let the support staff you do recall so they can best help you.
 
 ## Expected and observed results
 
