@@ -30,7 +30,7 @@ In order for the support staff to give you the best service only include one iss
 
 An important step in helping the support staff fix your issue is being able to repeat the steps you took that caused the problem.  It is okay if you don't remember every step in perfect deftail.  It is important to let the support staff you do recall so they can best help you.
 
-## What did you expect and what did you get
+## What Did You Expect and What Did You Get
 
 Clearly explaining the results that you were expecting from using the software and what you actually got will also help identify the issue.
 
@@ -40,7 +40,7 @@ Taking a screenshot of what you are seeing on the screen can sometimes be a grea
 
 For help on taking a screenshot on your system take a look at: [take-a-screenshot.org][3]
 
-## Time to submit your issue or request?
+## Time to Submit Your Issue or Request?
 
 NO!  Take one last look at what you have written.  Any confuse that can be resolved before making contact will improve your experience.
 
