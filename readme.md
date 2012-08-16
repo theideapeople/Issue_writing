@@ -10,12 +10,20 @@ There are two aspects to fixing a bug or submitting a feature request that will 
 
 ## A Clear Title
 
-Writing a clear title of your issue or feature seems obvious but can be overlooked.  It is the first thing that everyone will notice and you want to get their attention.  That is why you are submitting right?
+Writing a clear title of your issue or feature seems obvious but can be overlooked.  It is the first thing that everyone will notice and you want to get their attention.  That is why you are submitting right? The follow is a list of somethings that a helpful title consists of:
+
+* One sentence or as short as it can be with still giving a extremely quick overview of the problem.
+* Omit how you feel about this issue.  The support staff treats every issue as something important, try to leave out words that don't descibe the issue directly.
+* Use the best grammar your are capable of using.
+
+---------------------------------------
+
+### Example Titles (Good and Bad)
 
 *Examples of poor titles:*
 * "HELP!!1"
 * "Broken"
-* "Lame, this program sux"
+* "Lame, this program stinks"
 
 *Examples of good titles:*
 * "Unable to save a contact to my contact list."
