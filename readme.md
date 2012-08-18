@@ -48,6 +48,18 @@ Taking a screenshot of what you are seeing on the screen can sometimes be a grea
 
 For help on taking a screenshot on your system take a look at: [take-a-screenshot.org][3]
 
+## Screencasts
+
+If your issue is a bit more complex to re-create, a quick screencast can be a great way to demonstrate exactly what you are experiencing.
+
+[Screenr][4] makes it incredibly easy to create a quick screencast right from your browser.
+
+## Browser Details
+
+If you are writing up an issue that deals with a website, including your browser details can be extremely helpful for the developer.
+
+A site like [Support Details][5] makes it very easy to get relevant browser information to the developer.
+
 ## Time to Submit Your Issue or Request?
 
 NO!  Take one last look at what you have written.  Any confusion that can be resolved before making contact with the support team will improve your experience.
@@ -65,3 +77,5 @@ __References__
 [1]: http://itscommonsensestupid.blogspot.com/2008/07/tips-to-write-good-bug-report.html
 [2]: http://qt-project.org/wiki/ReportingBugsInQt
 [3]: http://take-a-screenshot.org/
+[4]: http://www.screenr.com/
+[5]: http://supportdetails.com/
